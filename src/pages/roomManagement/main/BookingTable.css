@@ -1,0 +1,144 @@
+.daily-div {
+    margin-left: 5ch !important;
+    max-width: 100%;
+    height: 60ch;
+}
+
+.dialog {
+    max-width: 100% !important;
+}
+
+.pageContent {
+    margin: 54px 40px 54px 40px;
+    padding: 24px;
+    background-color: whitesmoke;
+    border-radius: 7px;
+}
+
+.add-record-btn {
+    margin: 8px 50px 8px 300px !important;
+    width: 20ch !important;
+}
+
+.edit-record-btn {
+    margin: 8px 50px 8px 300px !important;
+    width: 20ch !important;
+    color: green !important;
+}
+
+.add-new {
+    margin-left: 8ch !important;
+    width: 20ch !important;
+}
+
+.add-new-month {
+    margin-left: 65ch !important;
+    width: 20ch !important;
+}
+
+.input-search {
+    margin: 8px 8px !important;
+    width: 13ch !important;
+    margin-left: 50ch !important;
+}
+
+.select-download {
+    margin: 8px 64px 8px 64px !important;
+    min-width: 10ch !important;
+    margin-left: 50ch !important;
+}
+
+.daily-table-div-div {
+    margin-left: 5ch !important;
+    max-width: 100%;
+}
+
+.download-record-btn {
+    margin-left: 101ch !important;
+    margin-top: 20px !important;
+    width: 20ch !important;
+}
+
+.input-table {
+    width: 8ch !important;
+}
+
+.download-btn-available {
+    width: 10ch;
+    margin-left: 53ch;
+    height: 2.7ch;
+    border-radius: 5px;
+    background-color: rgb(144, 247, 144);
+}
+
+/*-----------Add Form-------------*/
+
+.date-picker {
+    width: 25ch;
+    margin: 8px 64px 8px 64px !important;
+}
+
+.booking-date-picker {
+    width: 25ch;
+    margin: 8px 64px 8px 8px !important;
+}
+
+.edit-date-picker {
+    width: 10ch;
+}
+
+.edit-input {
+    width: 8ch;
+}
+
+/* .select {
+    margin: 8px 64px 8px 64px !important;
+    min-width: 25ch !important;
+} */
+
+.input {
+    margin: 8px 64px 8px 64px !important;
+    width: 25ch !important;
+}
+
+.add-record-btn {
+    margin: 8px 50px 8px 300px !important;
+    width: 20ch !important;
+}
+
+.select-all-room {
+    margin: 8px 64px 8px 64px !important;
+    min-width: 25ch !important;
+}
+
+/*-----------Booking Add Form------------*/
+.date-picker {
+    width: 25ch;
+    margin: 8px 64px 8px 64px !important;
+}
+
+/* .select {
+    margin: 8px 64px 8px 64px !important;
+    min-width: 25ch !important;
+} */
+
+.input {
+    margin: 8px 64px 8px 64px !important;
+    width: 25ch !important;
+}
+
+.add-record-btn {
+    margin: 8px 50px 8px 300px !important;
+    width: 20ch !important;
+}
+
+.select-all-room {
+    margin: 8px 64px 8px 64px !important;
+    min-width: 25ch !important;
+}
+
+.errorMsg {
+    font-size: 13px;
+    color: red;
+    margin-left: 5ch;
+}

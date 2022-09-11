@@ -1,0 +1,16 @@
+.report-chart-div {
+    height: 25ch !important;
+    padding: 12px !important;
+    margin: 8px 10px 8px 10px !important;
+    /* width: 800px; */
+    background: #fffbd5;
+    background: -webkit-linear-gradient(to right, #e4b2b9, #dad9d4);
+    background: linear-gradient(to right, #e4b7bd, #d1d0ca);
+
+    border-radius: 5px;
+}
+
+h3 {
+    text-align: left;
+    font-weight: 900;
+}
